@@ -1,0 +1,12 @@
+{
+  "name": "codealpha-task1-data-redundancy",
+  "version": "1.0.0",
+  "description": "CodeAlpha Task 1 using Node.js and Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
